@@ -27,4 +27,6 @@ print("\n\n")
                                                                                           
                                   
 print("Now it's your turn:")
-print("Find this line (line 30) in the welcome_to_ct8.py file, then change the message to say a fact about you.")                                  
+print("I have two brothers and my oldest brother goes to washington state in a fraternity and my other brother is in the 11th grade here at SAAS")               
+print ("I have a english bulldog named Rocky at my moms house and a Shih zu named Pele at my dads house ")
+print(" My favorite color is red but can change based on the season for an example later into this fall my favorite color will be orange")
