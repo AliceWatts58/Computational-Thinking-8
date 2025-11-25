@@ -57,7 +57,7 @@ window.onkeypress(move_right, "d")
 
 def move_up():
     s2.setheading(90)
-    s2.forward(10)
+    s2.setheading(10)
         
 def move_down():
     s2.setheading(270)
